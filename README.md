@@ -11,9 +11,9 @@ Use `npm run script-name` to execute a script from command line.
 
 ## References
 
--   YouTube: [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&ab_channel=ProgrammingwithMosh)
--   YouTube: [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48&ab_channel=ProgrammingwithMosh)
--   YouTube: [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org)
+1. YouTube: [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&ab_channel=ProgrammingwithMosh)
+2. YouTube: [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48&ab_channel=ProgrammingwithMosh)
+3. YouTube: [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org)
 
 ## Documentation
 
@@ -21,6 +21,6 @@ Use `npm run script-name` to execute a script from command line.
 -   [Express documentation](https://expressjs.com/)
 -   NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
 
-## Music that kept me company
+## Music that accompanied me in this project
 
 -   [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)
