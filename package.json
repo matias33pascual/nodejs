@@ -1,11 +1,25 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "a node learning project",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Matias Pascual",
-  "license": "ISC"
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "A node learning project",
+    "main": "app.js",
+    "scripts": {
+        "server": "nodemon app.js",
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matias Pascual",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matias33pascual/nodejs.git"
+    },
+    "keywords": [
+        "node",
+        "learning",
+        "project"
+    ]
 }

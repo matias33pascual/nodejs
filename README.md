@@ -1,12 +1,26 @@
 # NodeJs
 
-A nodejs learning project
+A project learning nodejs with the Express framework.
 
 ## First step
 
-Use `npm init` to start a nodejs project.
+Use `npm init` to start a Node.js project.
+Use `npm i express` to add Express into the project.
+Use `npm i -g nodemon  ` to install the nodemon package.
+Use `npm run script-name` to execute a script from command line.
 
 ## References
 
 -   YouTube: [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&ab_channel=ProgrammingwithMosh)
 -   YouTube: [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48&ab_channel=ProgrammingwithMosh)
+-   YouTube: [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org)
+
+## Documentation
+
+-   [Node documentation](https://nodejs.org/)
+-   [Express documentation](https://expressjs.com/)
+-   NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
+
+## Music that kept me company
+
+-   [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)
