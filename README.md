@@ -4,10 +4,11 @@ A project learning nodejs with the Express framework.
 
 ## First step
 
-Use `npm init` to start a Node.js project.
-Use `npm i express` to add Express into the project.
-Use `npm i -g nodemon  ` to install the nodemon package.
-Use `npm run script-name` to execute a script from command line.
+1. Use `npm init` to start a Node.js project.
+2. Use `npm i express` to add Express into the project.
+3. Use `npm i -g nodemon  ` to install the nodemon package.
+
+- Use `npm run script-name` to execute a script from command line.
 
 ## References
 
