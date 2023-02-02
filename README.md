@@ -22,6 +22,6 @@ A project learning nodejs with the Express framework.
 -   [Express documentation](https://expressjs.com/)
 -   NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
 
-## Music that accompanied me in this project
+## Music heard in this project
 
 -   [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)
