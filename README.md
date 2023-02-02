@@ -1,6 +1,6 @@
 # NodeJs
 
-A project learning nodejs with the Express framework.
+A Node.js learning project using the Express framework.
 
 ## First step
 
