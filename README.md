@@ -2,7 +2,7 @@
 
 A Node.js learning project using the Express framework.
 
-## First step
+## Firsts steps
 
 1. Use `npm init` to start a Node.js project.
 2. Use `npm i express` to add Express into the project.
