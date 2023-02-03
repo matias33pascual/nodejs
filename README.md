@@ -21,6 +21,12 @@ Use `npm run script-name` to execute a script from command line.
 -   [Express documentation](https://expressjs.com/)
 -   NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
 
-## Music that accompanied me in this project
+## Folder structure
+
+**courses**: contains the directories of each course
+**code-with-mosh**: contains a file with examples from videos one and two
+**free-code-camp**: the examples folder contains examples from the third video
+
+## Music heard in this project
 
 -   [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)

@@ -50,4 +50,10 @@ simpleExample.get("/api/query", (request, response) => {
     response.send(request.query);
 });
 
+const port = process.env.PORT || 3000;
+
+simpleExample.listen(port, () => {
+    console.log(`server running on port: ${port}`);
+});
+
 module.exports = simpleExample;
