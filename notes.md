@@ -2,12 +2,19 @@
 
 ## Globals
 
--   `__dirname` --> path to current directory
--   `__filename` -> file name
--   `require` ----> function to use modules _(CommonJS)_
--   `module` -----> information about the current module _(file)_
--   `process` ----> information about the environment where the program runs
+- `__dirname` --> path to current directory
+- `__filename` -> file name
+- `require` ----> function to use modules _(CommonJS)_
+- `module` -----> information about the current module _(file)_
+- `process` ----> information about the environment where the program runs
 
 # Modules
 
--   os --> contains information about the operating system
+- os ---> Provides operating system-related utility methods and properties.
+- path -> Provides utilities for working with file and directory paths.
+- http -> The HTTP interfaces in Node.js are designed to support many features of the protocol.
+
+## Random notes
+
+`npm i nodemon -D` Install the dependency in developer mode.
+`npm init -y` Create the project with all the default properties.

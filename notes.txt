@@ -1,3 +1,7 @@
 voy por:
+
 YouTube: [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org)
-hora 1:04
+
+hora 2:26
+
+... que largo que se hace a veces ...

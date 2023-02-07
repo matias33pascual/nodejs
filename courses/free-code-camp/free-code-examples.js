@@ -2,3 +2,4 @@
 // const constantsExample = require("./examples/constants-example");
 // const pathExample = require("./examples/path-example");
 // const fileExample = require("./examples/file-examples");
+const httpModule = require("./examples/http-module");

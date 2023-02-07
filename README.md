@@ -8,7 +8,7 @@ A Node.js learning project using the Express framework.
 2. Use `npm i express` to add Express into the project.
 3. Use `npm i -g nodemon  ` to install the nodemon package.
 
--   Use `npm run script-name` to execute a script from command line.
+- Use `npm run script-name` to execute a script from command line.
 
 ## References
 
@@ -18,16 +18,16 @@ A Node.js learning project using the Express framework.
 
 ## Documentation
 
--   [Node documentation](https://nodejs.org/)
--   [Express documentation](https://expressjs.com/)
--   NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
+- [Node documentation](https://nodejs.org/)
+- [Express documentation](https://expressjs.com/)
+- NPM package: [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Folder structure
 
-**courses**: contains the directories of each course
-**code-with-mosh**: contains a file with examples from videos one and two
-**free-code-camp**: the examples folder contains examples from the third video
+**courses**: contains the directories of each course.
+**code-with-mosh**: contains a file with examples from videos one and two.
+**free-code-camp**: the examples folder contains examples from the third video.
 
 ## Music heard in this project
 
--   [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)
+- [Relaxing Blues instrumental guitar](https://open.spotify.com/album/08mAHO7zc084KNeKxDKPrO?si=XybAkJqpSAy-BN5nphbxig)
