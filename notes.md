@@ -10,7 +10,7 @@
 
 # Modules
 
-- os ---> Provides operating system-related utility methods and properties.
+- os ---> Provides methods and properties of operating system-related utilities.
 - path -> Provides utilities for working with file and directory paths.
 - http -> The HTTP interfaces in Node.js are designed to support many features of the protocol.
 
@@ -18,3 +18,4 @@
 
 `npm i nodemon -D` Install the dependency in developer mode.
 `npm init -y` Create the project with all the default properties.
+`node` Enter in REPL

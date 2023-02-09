@@ -12,9 +12,7 @@ A Node.js learning project using the Express framework.
 
 ## References
 
-1. YouTube: [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&ab_channel=ProgrammingwithMosh)
-2. YouTube: [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48&ab_channel=ProgrammingwithMosh)
-3. YouTube: [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org)
+1. YouTube: [Aprende Node.js y Express](https://www.youtube.com/watch?v=1hpc70_OoAg&ab_channel=freeCodeCampEspa%C3%B1ol)
 
 ## Documentation
 
