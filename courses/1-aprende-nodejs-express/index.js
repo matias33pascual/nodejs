@@ -1,3 +1,2 @@
-const saludar = (nombre) => `hola ${nombre}`;
-
-console.log(saludar("Mat"));
+require("./1-modules/module-example.js");
+require("./2-module-built-in/module-built-in-example.js");

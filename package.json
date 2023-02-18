@@ -6,6 +6,7 @@
   "scripts": {
     "server": "node app.js",
     "start": "nodemon app.js",
+    "argv": "nodemon app.js matias pascual",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matias Pascual",
