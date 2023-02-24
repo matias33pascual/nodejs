@@ -1,3 +1,6 @@
+const os = require("os");
+const fs = require("fs");
+
 //* module built-in
 //* also called modules-core
 
@@ -41,4 +44,71 @@ const memoryUsageInPercent = () =>
     process.memoryUsage().heapTotal
   ).toPrecision(4);
 
-processExamples();
+const OSExamples = () => {
+  console.log(os.type());
+  console.log(os.arch());
+  console.log(os.release());
+  console.log(os.platform());
+  console.log(os.homedir());
+  console.log(os.uptime());
+  console.log(os.userInfo());
+};
+
+const timersExamples = () => {
+  setTimeout((name) => console.log(`Hi ${name}!`), 1500, "Mat");
+
+  const helloInterval = setInterval(() => console.log("Goodbye!"), 1000);
+  const goodbyeInterval = setInterval(() => console.log("Hello world!"), 1000);
+
+  setTimeout(() => {
+    console.log("Goodbye interval finished");
+    clearInterval(goodbyeInterval);
+  }, 4000);
+
+  setTimeout(() => {
+    console.log("Hello interval finished");
+    clearInterval(helloInterval);
+  }, 5000);
+
+  const plusFunction = (a, b) => console.log(a + b);
+
+  setTimeout(plusFunction, 3000, 5, 6);
+};
+
+const timersExamples2 = () => {
+  console.log("Actual cicle");
+  setImmediate((name) => console.log(`Next cicle -> Hi ${name}`), "Mat");
+  console.log("Actual cicle");
+};
+
+const fsExamples = () => {
+  const obj = {
+    id: "33",
+    name: "Mat",
+  };
+
+  const path = "/mat.json";
+
+  fs.writeFile(path, JSON.stringify(obj), (err, data) => {
+    if (err) {
+      throw err;
+    }
+    console.log(data);
+  });
+
+  // fs.appendFile(path, "data", (err) => {
+  // if (err) {
+  // throw err;
+  // }
+  // console.log("new data added to file");
+  // });
+
+  // fs.rename("old.json", "new.json", (err) => {
+  //   if (err) {
+  //     throw err;
+  //   }
+  //   console.log("Name changed");
+  // });
+};
+
+fsExamples();
